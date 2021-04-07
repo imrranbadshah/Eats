@@ -1,0 +1,40 @@
+{
+   "checksum": "986c427b1c9599f7a6e3e2f0df38e007",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13260902666803912",
+            "guid": "f100d6d6-0c85-4265-b9b4-71bb0db1a1ed",
+            "id": "5",
+            "name": "Collapsible Sidebar and Navigation Drawer | Flutter UI - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=2SjvhAUR9aw"
+         } ],
+         "date_added": "13260900614310825",
+         "date_modified": "13260902666803912",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13260900614310828",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13260900614310830",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
